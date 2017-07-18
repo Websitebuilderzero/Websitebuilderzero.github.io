@@ -5501,3 +5501,11 @@ pre {
 .cid-qpIDEk50au .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-qpIElccfXk {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qpIElccfXk .media-container-row .mbr-text {
+  color: #149dcc;
+}
